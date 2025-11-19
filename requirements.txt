@@ -1,0 +1,4 @@
+# requirements.txt
+# This file is here to satisfy the Hugging Face build system's convention
+# for Python-based spaces. No Python packages are actually required
+# for the launcher itself.
